@@ -78,26 +78,6 @@ building, learning, experimenting, and improving.
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=wirap116206-code&show_icons=true&hide_border=true&rank_icon=github"
-  height="170"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirap116206-code&layout=compact&hide_border=true&langs_count=8"
-  height="170"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
 <h3 align="left">🔥 Contribution Streak</h3>
 
 <div align="center">
@@ -105,32 +85,6 @@ building, learning, experimenting, and improving.
 <img
   src="https://streak-stats.demolab.com/?user=wirap116206-code&hide_border=true"
   alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-<h3 align="left">🐍 Contribution Snake</h3>
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/wirap116206-code/wirap116206-code/output/github-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
-
-</div>
-
----
-
-<h3 align="left">👾 Pac-Man Contribution Graph</h3>
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/wirap116206-code/wirap116206-code/output/pacman-contribution-graph.svg"
-  alt="Pac-Man Contribution Graph"
 />
 
 </div>
