@@ -19,7 +19,7 @@ from designing user interfaces to developing APIs and managing databases.
 
 - 💻 Build web applications with <strong>React, Next.js, Node.js, and Express.js</strong>
 - 📱 Explore mobile development with <strong>React Native & Expo</strong>
-- 🗄️ Work with <strong>MongoDB, PostgreSQL, and MySQL</strong>
+- 🗄️ Work with <strong>MongoDB, PostgreSQL, Supabase, and MySQL</strong>
 - 🔌 Build and consume <strong>REST APIs</strong>
 - 🛠️ Use <strong>Git & GitHub</strong> for version control
 - 🧠 Improve my problem-solving and software engineering skills
